@@ -1,0 +1,52 @@
+{
+  "login": [
+    {
+      "name": "admin",
+      "password": "123456"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hut buena",
+      "email": "pizzahut@test.com",
+      "address": "guadalajara jalisco",
+      "rating": "4.5",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "code jalisco",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Tacos gumma",
+      "address": "plaza oblatos",
+      "rating": "4.8",
+      "email": "tacosgumma@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Amparitos",
+      "address": "Glorieta del charro",
+      "rating": "5.0",
+      "email": "amparitolonchesdiosnohaymasniinventes@test.com"
+    },
+    {
+      "id": 6,
+      "name": "gorditas mercado",
+      "address": "artesanos Av",
+      "rating": "4.5",
+      "email": "gorditasmercado@test.com"
+    },
+    {
+      "name": "emmanuel",
+      "email": "emmanuel@test.com",
+      "rating": "5.0",
+      "address": "ejemplo de direccion",
+      "id": 7
+    }
+  ]
+}
